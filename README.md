@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Devlopment
 - 🌱 I’m currently learning Web Devlopment
 - 💞️ I’m looking to  collaborate  on Any web dev project or freelance work
-- 📫 How to reach me Mail:deepanshuyadav1811@gmail.com  
+- 📫 How to reach me Mail : deepanshuyadav1811@gmail.com  
 - ⚡
 
 <!---
