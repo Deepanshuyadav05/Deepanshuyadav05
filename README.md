@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DeepanshuYadav
+- 👋 Hi, I’m @Deepanshu Yadav
 - 👀 I’m interested in WebDevlopment
 - 🌱 I’m currently  learning Web  Devlopment and DSA in JS
 - 💞️ I’m looking to collaborate on Any web dev project or freelance work
