@@ -43,7 +43,7 @@ I am a dedicated **Full-Stack Web Developer** and student with a deep passion fo
 I'm always open to collaborating on innovative web projects or freelance opportunities.
 
 - 📧 **Email:** [deepanshuyadav1811@gmail.com](mailto:deepanshuyadav1811@gmail.com)
-- 📝 **Read my Blogs:** [Hashnode](https://hashnode.com/@DeepanshuYadav) / [Substack](https://substack.com/@DeepanshuYadav)
+- 📝 **Read my Blogs:** [Hashnode](https://hashnode.com/@DeepanshuYadav) / [Substack](https://substack.com/@deepanshu18)
 - 💼 **Freelance:** Open for projects!
 
 ---
